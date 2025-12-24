@@ -1,0 +1,129 @@
+{
+    "users": [
+      {
+        "id": "mjieyhfzbkubofk8xp9",
+        "email": "test@imara.com",
+        "username": "testuser",
+        "name": "Test User",
+        "password": "$2a$10$PyPdu4sdAz0ctbmuPhl9uu2cgLrhonHhuLkMpfRnYbTW5hDajj8l.",
+        "avatar": null,
+        "bio": "",
+        "streak": {
+          "current": 0,
+          "longest": 0,
+          "lastCheckIn": null
+        },
+        "stats": {
+          "totalCheckIns": 0,
+          "totalJournalEntries": 0,
+          "totalHabitsCompleted": 0,
+          "totalMoodEntries": 0,
+          "totalPoints": 0,
+          "achievements": 0
+        },
+        "settings": {
+          "notifications": true,
+          "emailNotifications": false,
+          "theme": "light",
+          "accentColor": "amber",
+          "dailyReminderTime": "09:00"
+        },
+        "createdAt": "2025-12-23T09:59:49.199Z",
+        "lastActive": "2025-12-23T10:02:15.122Z"
+      }
+    ],
+    "checkins": [],
+    "journals": [],
+    "habits": [],
+    "habitCompletions": [],
+    "moodEntries": [],
+    "achievements": [
+      {
+        "id": "first_checkin",
+        "title": "Getting Started",
+        "description": "Complete your first daily check-in",
+        "icon": "🎯",
+        "points": 10,
+        "category": "consistency",
+        "color": "blue"
+      },
+      {
+        "id": "streak_3",
+        "title": "Three Day Streak",
+        "description": "Check in for 3 consecutive days",
+        "icon": "⚡",
+        "points": 25,
+        "category": "consistency",
+        "color": "green"
+      },
+      {
+        "id": "streak_7",
+        "title": "Weekly Warrior",
+        "description": "Check in for 7 consecutive days",
+        "icon": "📅",
+        "points": 50,
+        "category": "consistency",
+        "color": "purple"
+      },
+      {
+        "id": "first_journal",
+        "title": "Reflective Soul",
+        "description": "Write your first journal entry",
+        "icon": "📖",
+        "points": 15,
+        "category": "awareness",
+        "color": "amber"
+      },
+      {
+        "id": "first_post",
+        "title": "Storyteller",
+        "description": "Share your first community post",
+        "icon": "💬",
+        "points": 20,
+        "category": "community",
+        "color": "pink"
+      }
+    ],
+    "userAchievements": [],
+    "selfCareActivities": [],
+    "challenges": [
+      {
+        "id": "hydration_7",
+        "title": "7-Day Hydration Challenge",
+        "description": "Drink 8 glasses of water daily for a week",
+        "category": "wellness",
+        "duration": 7,
+        "points": 50,
+        "icon": "💧",
+        "color": "blue",
+        "isActive": true
+      },
+      {
+        "id": "gratitude_week",
+        "title": "Gratitude Week",
+        "description": "Share one thing you're grateful for each day",
+        "category": "mindfulness",
+        "duration": 7,
+        "points": 40,
+        "icon": "🙏",
+        "color": "green",
+        "isActive": true
+      }
+    ],
+    "userChallenges": [],
+    "reminders": [],
+    "communityPosts": [],
+    "postReplies": [],
+    "themes": [
+      {
+        "id": "mjieyhfztaake7puoxi",
+        "userId": "mjieyhfzbkubofk8xp9",
+        "theme": "light",
+        "accentColor": "amber",
+        "fontSize": "medium",
+        "reducedMotion": false,
+        "lastUpdated": "2025-12-23T09:59:49.199Z"
+      }
+    ],
+    "lastSave": "2025-12-23T11:26:42.978Z"
+  }
